@@ -1,0 +1,28 @@
+.CountryResult{
+    /* border: 1px solid #252525;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height:200px;
+    width: 85%;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius:6px; */
+    /* border-color: #252525 */
+    transition: 450ms transform;
+    white-space: nowrap;
+    margin: auto;
+    padding-bottom: 10px;
+}
+.CountryResult:hover {
+    transform: translate3d((-250px * (1.5-1)/2), 0, 0);
+}
+
+
+.CountryResult span{
+    transform: rotate(-90deg);
+    height: 15%;
+    margin: auto;
+    font-size:1.75em;
+}

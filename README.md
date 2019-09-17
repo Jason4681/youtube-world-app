@@ -4,16 +4,16 @@ Users can select any of the 6 continents(sorry Antarctica) to see what's trendin
 [Try the live demo](https://world-603b9.firebaseapp.com/)
 
 Features:
--Optimized for both browser and mobile use!
--Easy continent selector with interactive world map
--6 continents and over 30 countries supported!
--Top 10 trending youtube videos from each country
--Built in video player
+- Optimized for both browser and mobile use!
+- Easy continent selector with interactive world map
+- 6 continents and over 30 countries supported!
+- Top 10 trending youtube videos from each country
+- Built in video player
 
 Development Details:
--Built using ReactJS
--Redux for state management
--CSS modules for styling
--Utilizes data received from Youtube's V3 API
--Firebase for deployment
+- Built using ReactJS
+- Redux for state management
+- CSS modules for styling
+- Utilizes data received from Youtube's V3 API
+- Firebase for deployment
 
